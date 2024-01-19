@@ -1,0 +1,40 @@
+{
+    "cSpell.words": [
+        "consoleintr",
+        "devintr",
+        "fsinit",
+        "hartid",
+        "initlock",
+        "interruptor",
+        "KERNBASE",
+        "KSTACK",
+        "MAXVA",
+        "MCLAIM",
+        "MENABLE",
+        "mmio",
+        "MPRIORITY",
+        "MTIMECMP",
+        "PGSIZE",
+        "PHYSTOP",
+        "PLIC",
+        "procdump",
+        "riscv",
+        "SCLAIM",
+        "SENABLE",
+        "sleeplock",
+        "SPRIORITY",
+        "TRAPFRAME",
+        "uartgetc",
+        "uartinit",
+        "uartintr",
+        "uartputc",
+        "uartstart",
+        "usertrap",
+        "virtio"
+    ],
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/.vscode",
+        "--clang-tidy"
+    ]
+}
